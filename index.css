@@ -11,7 +11,7 @@ a {
 
 .title {
   color: #3f297c;
-  font-size: 8vw;
+  font-size: 6vw;
   font-family: "Sans Forgetica" sans-serif; 
   letter-spacing: 0px;
 	padding-left: 5%;
@@ -25,7 +25,7 @@ a {
 
 .description {
 	color: #010203;
-	font-size: 5vw;
+	font-size: 3vw;
 	letter-spacing: 0.0px;
 	padding-left: 5%;
 	padding-top: 10%;
@@ -37,7 +37,7 @@ a {
 
 .information {
 	color: #010203;
-	font-size: 5vw;
+	font-size: 3vw;
 	letter-spacing: 0.1px;
 	padding-left: 5%;
 	padding-top: 10%;
